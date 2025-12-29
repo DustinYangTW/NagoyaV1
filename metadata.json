@@ -1,0 +1,7 @@
+{
+  "name": "V1",
+  "description": "A high-interactive travel itinerary app for a 6-day journey from Nagoya to Takayama, featuring AI-powered planning, budgeting, and a dedicated timeline view.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
